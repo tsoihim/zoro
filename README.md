@@ -1,0 +1,2 @@
+# zoro
+Personal Django practice
