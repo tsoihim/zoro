@@ -51,10 +51,8 @@ Check DRF on http://[IP]:[Port]/devices/*
 
 - POST
     - /devices
-        - {serial, ip, priority, last_update}
 - PUT
     - /devices/{id}
-        - {id, serial, ip, priority, last_update}
 
 - DELETE
     - /devices/{id}
