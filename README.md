@@ -59,7 +59,6 @@ Check DRF on http://[IP]:[Port]/devices/*
 
 </br>
 All media types are application/json
-
 </br></br>
 
 ## References
